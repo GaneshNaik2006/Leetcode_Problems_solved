@@ -11,4 +11,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3699-number-of-zigzag-arrays-i) |
+## Array
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0992-subarrays-with-k-different-integers) |
+## Hash Table
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0992-subarrays-with-k-different-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0992-subarrays-with-k-different-integers) |
+## Counting
+|  |
+| ------- |
+| [0992-subarrays-with-k-different-integers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0992-subarrays-with-k-different-integers) |
 <!---LeetCode Topics End-->
