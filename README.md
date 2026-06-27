@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Simulation
@@ -99,4 +100,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0215-kth-largest-element-in-an-array) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
