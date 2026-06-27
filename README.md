@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0992-subarrays-with-k-different-integers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0992-subarrays-with-k-different-integers) |
 | [1046-last-stone-weight](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2558-take-gifts-from-the-richest-pile) |
@@ -71,10 +72,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1046-last-stone-weight) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Simulation
 |  |
 | ------- |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2558-take-gifts-from-the-richest-pile) |
+## Binary Search
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Sorting
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
