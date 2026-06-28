@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Matrix
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -123,9 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Greedy
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+## Two Pointers
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
