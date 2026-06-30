@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0076-minimum-window-substring) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0992-subarrays-with-k-different-integers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0992-subarrays-with-k-different-integers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0076-minimum-window-substring) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0992-subarrays-with-k-different-integers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0992-subarrays-with-k-different-integers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0076-minimum-window-substring) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Math
 |  |
