@@ -17,11 +17,11 @@ vector<vector<int>> overlap(vector<vector<int>>& nums) {
     return ans;
 }
     vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        int m=newInterval.size();
+       
 
-        for(int i=0;i<m;i++){
+       
             intervals.push_back(newInterval);
-        }
+        
         sort(intervals.begin(),intervals.end());
         return overlap(intervals);
     }
