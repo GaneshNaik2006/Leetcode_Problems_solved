@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3620-network-recovery-pathways) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0055-jump-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
