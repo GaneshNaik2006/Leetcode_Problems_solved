@@ -81,6 +81,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Divide and Conquer
 |  |
 | ------- |
