@@ -158,6 +158,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
@@ -172,6 +173,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -225,6 +227,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
 ## Topological Sort
@@ -234,6 +237,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
