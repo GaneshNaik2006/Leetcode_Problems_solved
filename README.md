@@ -161,6 +161,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -181,6 +182,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -217,6 +219,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
