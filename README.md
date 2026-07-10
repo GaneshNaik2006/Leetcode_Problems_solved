@@ -12,6 +12,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0435-non-overlapping-intervals](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -47,6 +48,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -134,6 +136,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
@@ -147,6 +150,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -216,11 +220,13 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0455-assign-cookies) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -248,6 +254,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -279,4 +286,8 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0617-merge-two-binary-trees](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0617-merge-two-binary-trees) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
