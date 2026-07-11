@@ -58,6 +58,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | ------- |
 | [0076-minimum-window-substring](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0076-minimum-window-substring) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -181,6 +182,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0222-count-complete-tree-nodes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0222-count-complete-tree-nodes) |
 | [0617-merge-two-binary-trees](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0617-merge-two-binary-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
@@ -207,6 +209,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0222-count-complete-tree-nodes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0222-count-complete-tree-nodes) |
 | [0617-merge-two-binary-trees](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0617-merge-two-binary-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Data Stream
 |  |
@@ -247,6 +250,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0617-merge-two-binary-trees) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -291,6 +295,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0145-binary-tree-postorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0199-binary-tree-right-side-view) |
 | [0617-merge-two-binary-trees](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0617-merge-two-binary-trees) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Bit Manipulation
