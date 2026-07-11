@@ -26,6 +26,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0055-jump-game) |
@@ -58,6 +59,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
