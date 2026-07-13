@@ -124,6 +124,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Heap (Priority Queue)
 |  |
