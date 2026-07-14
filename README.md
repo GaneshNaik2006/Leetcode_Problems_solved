@@ -12,6 +12,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0435-non-overlapping-intervals](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -53,6 +54,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -98,6 +100,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Math
 |  |
 | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -338,4 +341,8 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
