@@ -205,6 +205,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0199-binary-tree-right-side-view](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -220,6 +221,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -241,6 +243,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0199-binary-tree-right-side-view](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0701-insert-into-a-binary-search-tree) |
