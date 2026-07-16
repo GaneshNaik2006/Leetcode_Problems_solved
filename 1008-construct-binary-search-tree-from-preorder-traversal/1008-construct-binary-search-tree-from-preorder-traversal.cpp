@@ -11,27 +11,21 @@
  */
 class Solution {
 public:
-    int search(vector<int>& inorder,int val,int left,int right){
-        for(int i=left;i<=right;i++){
-            if(inorder[i]==val) return i;
-        }
-        return -1;
-    }
-     TreeNode* helper(vector<int>& preorder,vector<int>& inorder,int& preidx,int left,int right){
-        if(left>right) return NULL;
-        TreeNode* root=new TreeNode(preorder[preidx]);
-        int inidx=search(inorder,preorder[preidx],left,right);
-        preidx++;
-        root->left=helper(preorder,inorder,preidx,left,inidx-1);
-        root->right=helper(preorder,inorder,preidx,inidx+1,right);
+    TreeNode* bst(TreeNode* root,int val){
+        if(!root) return new TreeNode(val);
+
+        if(root->val >val) root->left=bst(root->left,val);
+        else root->right=bst(root->right,val);
 
         return root;
     }
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        vector<int> inorder(preorder);
-        sort(inorder.begin(),inorder.end());
         int n=preorder.size();
-        int preidx=0;
-        return helper(preorder,inorder,preidx,0,n-1);
+        TreeNode* root=NULL;
+        for(int i=0;i<n;i++){
+           root= bst(root,preorder[i]);
+        }
+
+        return root;
     }
 };
