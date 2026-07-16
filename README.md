@@ -43,6 +43,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0860-lemonade-change](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0860-lemonade-change) |
 | [0992-subarrays-with-k-different-integers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0992-subarrays-with-k-different-integers) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1046-last-stone-weight) |
 | [1288-remove-covered-intervals](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1301-number-of-paths-with-max-score) |
@@ -215,6 +216,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -231,6 +233,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0700-search-in-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Data Stream
 |  |
 | ------- |
@@ -334,6 +338,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0144-binary-tree-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Topological Sort
 |  |
 | ------- |
@@ -374,4 +379,8 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
