@@ -36,6 +36,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -163,6 +164,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -300,6 +302,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | ------- |
 | [0027-remove-element](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
