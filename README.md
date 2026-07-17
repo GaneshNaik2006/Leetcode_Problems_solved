@@ -71,6 +71,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0992-subarrays-with-k-different-integers) |
@@ -218,6 +219,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -239,6 +241,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -267,6 +270,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0450-delete-node-in-a-bst) |
 | [0617-merge-two-binary-trees](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -298,6 +302,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0455-assign-cookies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
@@ -315,6 +320,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0199-binary-tree-right-side-view](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -371,6 +377,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
