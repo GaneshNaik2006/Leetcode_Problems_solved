@@ -54,6 +54,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [1354-construct-target-array-with-multiple-sums](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -109,6 +110,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -406,6 +408,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3658-gcd-of-odd-and-even-sums) |
