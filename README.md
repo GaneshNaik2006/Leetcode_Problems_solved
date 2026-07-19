@@ -335,6 +335,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -346,12 +347,14 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -395,6 +398,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
