@@ -53,6 +53,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [1301-number-of-paths-with-max-score](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1331-rank-transform-of-an-array) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -170,6 +171,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0703-kth-largest-element-in-a-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1046-last-stone-weight) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1354-construct-target-array-with-multiple-sums) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -203,6 +205,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3536-maximum-product-of-two-digits) |
