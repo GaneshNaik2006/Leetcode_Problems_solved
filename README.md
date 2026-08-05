@@ -399,6 +399,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [2685-count-the-number-of-complete-components](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -414,6 +415,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -465,6 +467,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3310-remove-methods-from-project) |
 ## Bit Manipulation
 |  |
 | ------- |
