@@ -1,8 +1,9 @@
 class Solution {
 public:
     int memo(vector<int>& nums,vector<int>& dp,int i){
+        if(i<0) return 0;
         if(i==0 ) return nums[i];
-        if(i==1) return max(nums[0],nums[1]);
+        // if(i==1) return max(nums[0],nums[1]);
         if(dp[i]!=-1) return dp[i];
 
         int left=memo(nums,dp,i-1);
