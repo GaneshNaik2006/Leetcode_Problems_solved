@@ -3,9 +3,7 @@ public:
 
     string smallestNumber(string num, long long t) {
 
-        // ---------------------------------------------------------
-        // STEP 1: Factorize t
-        // ---------------------------------------------------------
+
 
         int need2 = 0;
         int need3 = 0;
@@ -32,26 +30,12 @@ public:
             t /= 7;
         }
 
-        // Digits 1..9 cannot create any other prime factor.
+
         if (t != 1)
             return "-1";
 
 
-        // ---------------------------------------------------------
-        // STEP 2: Prime-factor contribution of every digit
-        //
-        // digit : 2 3 5 7
-        //
-        // 1 -> 0 0 0 0
-        // 2 -> 1 0 0 0
-        // 3 -> 0 1 0 0
-        // 4 -> 2 0 0 0
-        // 5 -> 0 0 1 0
-        // 6 -> 1 1 0 0
-        // 7 -> 0 0 0 1
-        // 8 -> 3 0 0 0
-        // 9 -> 0 2 0 0
-        // ---------------------------------------------------------
+        
 
         int f2[10] = {
             0, 0, 1, 0, 2, 0, 1, 0, 3, 0
@@ -70,14 +54,7 @@ public:
         };
 
 
-        // ---------------------------------------------------------
-        // STEP 3: DP
-        //
-        // dp[a][b][c][d] =
-        // minimum number of digits required to get AT LEAST
-        //
-        // 2^a * 3^b * 5^c * 7^d
-        // ---------------------------------------------------------
+
 
         const int INF = 1e9;
 
@@ -100,13 +77,7 @@ public:
         dp[ID(0, 0, 0, 0)] = 0;
 
 
-        // ---------------------------------------------------------
-        // Bottom-up DP
-        //
-        // Every transition decreases at least one requirement,
-        // so all required states have already been computed.
-        // ---------------------------------------------------------
-
+        
         for (int a = 0; a <= need2; a++) {
 
             for (int b = 0; b <= need3; b++) {
@@ -128,7 +99,7 @@ public:
                             int nc = max(0, c - f5[digit]);
                             int nd = max(0, d - f7[digit]);
 
-                            // Digit must actually contribute something.
+                            
                             if (na == a &&
                                 nb == b &&
                                 nc == c &&
@@ -152,7 +123,6 @@ public:
         }
 
 
-        // Minimum number of useful digits required overall.
         int minDigits =
             dp[ID(need2, need3, need5, need7)];
 
@@ -160,10 +130,6 @@ public:
             return "-1";
 
 
-        // ---------------------------------------------------------
-        // Helper:
-        // Can the remaining 'slots' satisfy the requirement?
-        // ---------------------------------------------------------
 
         auto possible = [&](int a, int b, int c, int d,
                             int slots) -> bool {
@@ -172,11 +138,7 @@ public:
         };
 
 
-        // ---------------------------------------------------------
-        // STEP 4:
-        // Check whether num itself is already valid.
-        // ---------------------------------------------------------
-
+        
         bool zeroFree = true;
 
         int a = need2;
@@ -209,33 +171,10 @@ public:
         }
 
 
-        // ---------------------------------------------------------
-        // STEP 5:
-        // Try to find the smallest valid number of SAME length.
-        //
-        // We choose a position where we make the number larger.
-        //
-        // We try positions from RIGHT -> LEFT.
-        //
-        // Example:
-        //
-        // num = 19
-        //
-        // Try changing position 1:
-        // 9 -> no larger digit can provide factor 2.
-        //
-        // Then change position 0:
-        // 1 -> 2
-        //
-        // suffix -> smallest possible = 1
-        //
-        // answer = 21
-        // ---------------------------------------------------------
-
+    
+       
         int n = (int)num.size();
 
-        // prefix[i] = remaining factor requirement
-        // after processing num[0 ... i-1]
         vector<array<int, 4>> prefix(n + 1);
 
         prefix[0] = {
@@ -258,13 +197,7 @@ public:
         }
 
 
-        // ---------------------------------------------------------
-        // If num contains zero:
-        //
-        // We cannot keep a prefix containing that zero.
-        //
-        // Therefore the pivot must be at or BEFORE the first zero.
-        // ---------------------------------------------------------
+       
 
         int firstZero = n;
 
@@ -277,16 +210,13 @@ public:
         }
 
 
-        // ---------------------------------------------------------
-        // Try every possible pivot.
-        // Rightmost pivot gives the smallest number.
-        // ---------------------------------------------------------
+
 
         for (int pos = n - 1;
              pos >= 0;
              pos--) {
 
-            // Prefix before pivot must be zero-free.
+
             if (pos > firstZero)
                 continue;
 
@@ -297,8 +227,6 @@ public:
             int pc = prefix[pos][2];
             int pd = prefix[pos][3];
 
-
-            // Increase this digit by the smallest possible amount.
             for (int digit = original + 1;
                  digit <= 9;
                  digit++) {
@@ -310,24 +238,17 @@ public:
 
                 int remaining = n - pos - 1;
 
-                // Can suffix satisfy the remaining factors?
+        
                 if (!possible(na, nb, nc, nd, remaining))
                     continue;
 
 
-                // -------------------------------------------------
-                // We found the pivot.
-                // Prefix remains exactly the same.
-                // -------------------------------------------------
 
                 string ans = num.substr(0, pos);
 
                 ans.push_back(char('0' + digit));
 
 
-                // -------------------------------------------------
-                // Build the smallest possible suffix.
-                // -------------------------------------------------
 
                 for (int j = pos + 1;
                      j < n;
@@ -368,25 +289,8 @@ public:
         }
 
 
-        // ---------------------------------------------------------
-        // STEP 6:
-        // Same length is impossible.
-        //
-        // Therefore we need a LONGER number.
-        //
-        // IMPORTANT:
-        //
-        // It is NOT necessarily n + 1.
-        //
-        // Example:
-        //
-        // num = "12"
-        // t = 1968750
-        //
-        // Minimum useful digits = 9.
-        //
-        // Therefore answer length must be 9.
-        // ---------------------------------------------------------
+        
+
 
         int len = max(n + 1, minDigits);
 
@@ -398,9 +302,7 @@ public:
         d = need7;
 
 
-        // ---------------------------------------------------------
-        // Construct smallest zero-free number of length 'len'.
-        // ---------------------------------------------------------
+  
 
         for (int pos = 0;
              pos < len;
