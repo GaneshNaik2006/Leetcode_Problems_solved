@@ -8,6 +8,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | ------- |
 | [0045-jump-game-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0198-house-robber) |
@@ -143,6 +144,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -504,6 +506,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Iterator
