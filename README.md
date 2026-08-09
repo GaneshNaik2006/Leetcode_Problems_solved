@@ -546,10 +546,12 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
