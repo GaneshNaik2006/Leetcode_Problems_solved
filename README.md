@@ -26,6 +26,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [1301-number-of-paths-with-max-score](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1406-stone-game-iii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -85,6 +86,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -234,6 +236,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0222-count-complete-tree-nodes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -254,6 +257,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [1331-rank-transform-of-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -396,6 +400,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0295-find-median-from-data-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -499,6 +504,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0222-count-complete-tree-nodes) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -574,4 +580,16 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0416-partition-equal-subset-sum) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
