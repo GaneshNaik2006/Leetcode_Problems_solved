@@ -21,6 +21,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0435-non-overlapping-intervals](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
@@ -159,6 +160,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0076-minimum-window-substring](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0076-minimum-window-substring) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0316-remove-duplicate-letters) |
+| [0516-longest-palindromic-subsequence](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
