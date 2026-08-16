@@ -28,6 +28,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0877-stone-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1301-number-of-paths-with-max-score) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1510-stone-game-iv) |
@@ -165,6 +166,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0516-longest-palindromic-subsequence](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2213-longest-substring-of-one-repeating-character) |
