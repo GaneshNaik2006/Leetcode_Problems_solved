@@ -34,6 +34,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1406-stone-game-iii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1563-stone-game-v) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -94,6 +95,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [1354-construct-target-array-with-multiple-sums](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1406-stone-game-iii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -195,6 +197,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [1140-stone-game-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -592,6 +595,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [1140-stone-game-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
