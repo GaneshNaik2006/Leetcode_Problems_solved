@@ -13,6 +13,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0064-minimum-path-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0198-house-robber) |
@@ -66,6 +67,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
