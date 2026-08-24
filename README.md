@@ -33,6 +33,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0583-delete-operation-for-two-strings](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1140-stone-game-ii) |
@@ -96,6 +97,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0542-01-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0877-stone-game) |
@@ -451,6 +453,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0455-assign-cookies](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1386-cinema-seat-allocation) |
