@@ -504,6 +504,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0023-merge-k-sorted-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0206-reverse-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -651,6 +652,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
