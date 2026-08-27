@@ -489,6 +489,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0027-remove-element](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0455-assign-cookies) |
@@ -504,6 +505,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0023-merge-k-sorted-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0206-reverse-linked-list) |
 ## Breadth-First Search
 |  |
@@ -557,6 +559,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0173-binary-search-tree-iterator) |
@@ -652,6 +655,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0486-predict-the-winner) |
 ## Game Theory
