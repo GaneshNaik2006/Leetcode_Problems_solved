@@ -68,6 +68,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0001-two-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0057-insert-interval) |
@@ -701,6 +702,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0039-combination-sum) |
 | [0494-target-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Knapsack Problem
