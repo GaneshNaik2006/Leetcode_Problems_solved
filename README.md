@@ -519,6 +519,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0141-linked-list-cycle](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0206-reverse-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Breadth-First Search
 |  |
 | ------- |
