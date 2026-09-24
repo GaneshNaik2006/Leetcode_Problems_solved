@@ -57,6 +57,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1140-stone-game-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -122,6 +123,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [1406-stone-game-iii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -175,6 +177,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [1331-rank-transform-of-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -196,6 +199,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0992-subarrays-with-k-different-integers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -342,6 +346,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0222-count-complete-tree-nodes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
