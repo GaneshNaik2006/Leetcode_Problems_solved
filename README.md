@@ -73,6 +73,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0027-remove-element](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0063-unique-paths-ii) |
@@ -253,6 +254,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0268-missing-number) |
@@ -387,6 +389,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
