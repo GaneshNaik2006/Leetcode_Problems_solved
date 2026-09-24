@@ -74,6 +74,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0039-combination-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0063-unique-paths-ii) |
@@ -165,6 +166,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -221,6 +223,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0139-word-break) |
@@ -365,6 +368,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0015-3sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0295-find-median-from-data-stream) |
