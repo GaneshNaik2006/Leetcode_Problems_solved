@@ -77,6 +77,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0048-rotate-image](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0063-unique-paths-ii) |
@@ -348,6 +349,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0054-spiral-matrix) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -397,6 +399,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
