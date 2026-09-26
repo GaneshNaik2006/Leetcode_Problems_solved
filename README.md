@@ -443,6 +443,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0700-search-in-a-binary-search-tree) |
@@ -499,6 +500,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0450-delete-node-in-a-bst) |
+| [0572-subtree-of-another-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0700-search-in-a-binary-search-tree) |
@@ -653,6 +655,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0733-flood-fill) |
@@ -680,6 +683,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0572-subtree-of-another-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -823,4 +827,8 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0056-merge-intervals) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
