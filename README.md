@@ -130,6 +130,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -187,6 +188,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -242,6 +244,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [1092-shortest-common-supersequence](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2213-longest-substring-of-one-repeating-character) |
