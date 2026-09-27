@@ -242,6 +242,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1092-shortest-common-supersequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -631,6 +632,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Topological Sort
 |  |
 | ------- |
@@ -831,4 +833,8 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0572-subtree-of-another-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
