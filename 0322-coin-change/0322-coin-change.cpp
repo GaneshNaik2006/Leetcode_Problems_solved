@@ -1,25 +1,23 @@
 class Solution {
 public:
-    int f(vector<int>& nums,int k,int i ,vector<vector<int>>& dp){
-        if(i==0) {
-            if(k%nums[0]==0) return k/nums[0];
-            else return 1e9;
-        }
-        if(dp[i][k]!=-1) return dp[i][k];
-        int nottake=f(nums,k,i-1,dp);
-        int take=1e9;
-        if(nums[i]<=k) take=1+f(nums,k-nums[i],i,dp);
+    int f(vector<int>& nums,int n,int target,vector<vector<int>>& dp){
+        if(target==0) return 0;
+        if(target<0) return 1e9;
+        if(n<0) return 1e9;
+        if(dp[n][target]!=-1) return dp[n][target];
 
-        return dp[i][k]=min(nottake,take);
+        int take=1+f(nums,n,target-nums[n],dp);
+        int nottake=f(nums,n-1,target,dp);
+
+        return dp[n][target]=min(take,nottake);
     }
-    int coinChange(vector<int>& nums, int k) {
-        int n=nums.size();
-        vector<vector<int>> dp(n,vector<int>(k+1,-1));
-        int ans=f(nums,k,n-1,dp);
+    int coinChange(vector<int>& coins, int amount) {
+        int n=coins.size();
+        vector<vector<int>> dp(n+1,vector<int>(amount+1,-1));
         
-        if(ans >= 1e9)
-            return -1;
+         int ans=f(coins,n-1,amount,dp);
 
-        return ans;
+         if(ans==1e9) return -1;
+         return ans;
     }
 };
