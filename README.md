@@ -309,6 +309,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0190-reverse-bits](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -673,6 +674,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1386-cinema-seat-allocation) |
