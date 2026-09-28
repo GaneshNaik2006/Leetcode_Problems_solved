@@ -96,6 +96,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0268-missing-number) |
@@ -411,6 +412,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0054-spiral-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0733-flood-fill) |
@@ -581,6 +583,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0322-coin-change) |
@@ -601,6 +604,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0547-number-of-provinces) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2685-count-the-number-of-complete-components) |
@@ -656,6 +660,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0144-binary-tree-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
