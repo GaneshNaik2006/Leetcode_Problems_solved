@@ -83,6 +83,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0057-insert-interval](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0120-triangle) |
@@ -173,6 +174,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | ------- |
 | [0001-two-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -412,6 +414,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0054-spiral-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0542-01-matrix) |
