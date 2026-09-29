@@ -48,6 +48,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [1563-stone-game-v](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1872-stone-game-viii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -141,6 +142,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -421,6 +423,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0733-flood-fill](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -852,4 +855,5 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
