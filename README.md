@@ -26,6 +26,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0213-house-robber-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0486-predict-the-winner) |
@@ -696,6 +697,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0191-number-of-1-bits](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0338-counting-bits) |
 | [1386-cinema-seat-allocation](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1386-cinema-seat-allocation) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
