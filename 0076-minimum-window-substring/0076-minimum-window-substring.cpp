@@ -4,25 +4,28 @@ public:
         int n=s.length();
         int m=t.length();
 
-        int r=0,l=0,minlen=INT_MAX,count=0,sindex=-1;
         unordered_map<char,int> mp;
 
         for(int i=0;i<m;i++) mp[t[i]]++;
+
+        int r=0,l=0,minlen=INT_MAX,si=-1,cnt=0;
+
         while(r<n){
-            if(mp[s[r]]>0) count+=1;
+            if(mp[s[r]]>0) cnt++;
             mp[s[r]]--;
 
-            while(count==m){
-                if(minlen> r-l+1){
+            while(cnt==m){
+                if(minlen>r-l+1) {
                     minlen=r-l+1;
-                    sindex=l;
+                    si=l;
                 }
                 mp[s[l]]++;
-                if(mp[s[l]]>0) count--;
+                if(mp[s[l]]>0) cnt--;
                 l++;
             }
             r++;
         }
-        return sindex==-1?"":s.substr(sindex,minlen);
+
+        return si==-1 ?"" :s.substr(si,minlen);
     }
 };
