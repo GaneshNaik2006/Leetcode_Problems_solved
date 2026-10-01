@@ -103,6 +103,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0200-number-of-islands](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0268-missing-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0322-coin-change) |
@@ -184,6 +185,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -394,6 +396,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0049-group-anagrams](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0295-find-median-from-data-stream) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
