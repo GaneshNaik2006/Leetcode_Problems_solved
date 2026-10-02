@@ -18,7 +18,10 @@ public:
     }
     bool isSubtree(TreeNode* root, TreeNode* subRoot) {
         if(!root) return false;
-        if(sametree(root,subRoot)) return true;
+        if(root->val==subRoot->val) {
+             if(sametree(root,subRoot)) return true;
+        }
+       
         return isSubtree(root->left,subRoot) || isSubtree(root->right,subRoot);
     }
 };
