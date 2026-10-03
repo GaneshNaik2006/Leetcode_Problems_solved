@@ -899,4 +899,12 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0347-top-k-frequent-elements) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
