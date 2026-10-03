@@ -61,6 +61,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1140-stone-game-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1872-stone-game-viii) |
@@ -106,6 +107,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0213-house-robber-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0268-missing-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0322-coin-change) |
