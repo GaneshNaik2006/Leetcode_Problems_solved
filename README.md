@@ -253,6 +253,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0076-minimum-window-substring](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -590,6 +591,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0015-3sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
