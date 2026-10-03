@@ -191,6 +191,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0139-word-break](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0424-longest-repeating-character-replacement) |
@@ -253,6 +254,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0079-word-search](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0424-longest-repeating-character-replacement) |
@@ -408,6 +410,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0056-merge-intervals](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0347-top-k-frequent-elements) |
