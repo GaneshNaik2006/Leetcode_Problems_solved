@@ -916,4 +916,8 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
