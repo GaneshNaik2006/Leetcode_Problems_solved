@@ -264,6 +264,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0647-palindromic-substrings](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1092-shortest-common-supersequence) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -574,6 +575,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1386-cinema-seat-allocation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -681,6 +683,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0316-remove-duplicate-letters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0316-remove-duplicate-letters) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -904,6 +907,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0032-longest-valid-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
