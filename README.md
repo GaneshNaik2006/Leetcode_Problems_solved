@@ -123,6 +123,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0542-01-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0704-binary-search](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0733-flood-fill) |
 | [0860-lemonade-change](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0860-lemonade-change) |
@@ -398,6 +399,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0222-count-complete-tree-nodes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0704-binary-search](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
