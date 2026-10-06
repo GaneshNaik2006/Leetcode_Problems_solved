@@ -121,6 +121,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0455-assign-cookies](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -198,6 +199,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0268-missing-number](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0496-next-greater-element-i) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -685,6 +687,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0145-binary-tree-postorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -768,6 +771,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Combinatorics
