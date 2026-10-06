@@ -29,6 +29,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0338-counting-bits) |
+| [0403-frog-jump](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0486-predict-the-winner) |
@@ -114,6 +115,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0347-top-k-frequent-elements](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0403-frog-jump](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0455-assign-cookies) |
