@@ -110,6 +110,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0217-contains-duplicate](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0347-top-k-frequent-elements) |
@@ -604,6 +605,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0141-linked-list-cycle](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0647-palindromic-substrings) |
