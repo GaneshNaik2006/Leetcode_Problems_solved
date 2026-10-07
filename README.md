@@ -78,6 +78,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0001-two-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0048-rotate-image) |
@@ -405,6 +406,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0222-count-complete-tree-nodes) |
