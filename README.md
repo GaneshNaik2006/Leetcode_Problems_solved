@@ -267,6 +267,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0139-word-break](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0516-longest-palindromic-subsequence) |
@@ -644,6 +645,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0207-course-schedule](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0547-number-of-provinces) |
@@ -846,6 +848,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0022-generate-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0079-word-search) |
+| [0301-remove-invalid-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0494-target-sum) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Knapsack Problem
