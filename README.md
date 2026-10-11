@@ -640,6 +640,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0141-linked-list-cycle) |
@@ -826,6 +827,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0486-predict-the-winner) |
