@@ -161,6 +161,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -375,6 +376,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3499-maximize-active-section-with-trade-i) |
