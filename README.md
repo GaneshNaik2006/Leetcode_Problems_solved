@@ -102,6 +102,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0139-word-break](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -414,6 +415,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0268-missing-number) |
