@@ -42,6 +42,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0877-stone-game) |
+| [0931-minimum-falling-path-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1301-number-of-paths-with-max-score) |
@@ -137,6 +138,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0875-koko-eating-bananas](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0904-fruit-into-baskets) |
+| [0931-minimum-falling-path-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -479,6 +481,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
