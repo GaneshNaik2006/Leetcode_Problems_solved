@@ -92,6 +92,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0063-unique-paths-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -443,6 +444,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0015-3sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0217-contains-duplicate) |
@@ -636,6 +638,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0015-3sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0143-reorder-list) |
@@ -951,6 +954,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0075-sort-colors) |
 ## Hash Function
 |  |
 | ------- |
@@ -993,4 +997,8 @@ A repository of my LeetCode solutions, documenting my DSA journey
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0169-majority-element) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
