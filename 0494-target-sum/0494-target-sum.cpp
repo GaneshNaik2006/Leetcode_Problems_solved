@@ -1,26 +1,22 @@
 class Solution {
 public:
-    int f(vector<int>& nums,int k,int i,vector<vector<int>>& dp){
-        if(i==0){
-            if(k==0 && nums[i]==0) return 2;
-            if(k==0 || nums[i]==k) return 1;
-            return 0;
-        }
-        if(dp[i][k]!=-1) return dp[i][k];
-        int take=0;
-        if(nums[i]<=k)
-         take=f(nums,k-nums[i],i-1,dp);
-        int nottake=f(nums,k,i-1,dp);
+    int  f(vector<int>& nums,int i,int target,vector<vector<int>>& dp){
+     
+        if(i<0) return target==0;
+        if (abs(target) > 1000) return 0;
+        if(dp[i][target+1000]!=-1) return dp[i][target+1000];
 
-        return dp[i][k]=take+nottake;
+        int takep=f(nums,i-1,target-nums[i],dp);
+        int taken=f(nums,i-1,target+nums[i],dp);
+       
+
+        return dp[i][target+1000]=takep+taken;
+        
     }
     int findTargetSumWays(vector<int>& nums, int target) {
         int n=nums.size();
-        int sum=0;
-        for(int i=0;i<n;i++) sum+=nums[i];
-        if(sum-target <0 || (sum-target)%2!=0) return 0;
-        int k=(sum-target)/2;
-        vector<vector<int>> dp(n,vector<int>(k+1,-1));
-        return f(nums,k,n-1,dp);
+        vector<vector<int>> dp(n+1,vector<int>(2001,-1));
+
+        return f(nums,n-1,target,dp);
     }
 };
