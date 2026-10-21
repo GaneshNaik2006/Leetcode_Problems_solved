@@ -43,6 +43,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1301-number-of-paths-with-max-score) |
@@ -144,6 +145,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0994-rotting-oranges](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1049-last-stone-weight-ii) |
 | [1140-stone-game-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1301-number-of-paths-with-max-score) |
@@ -900,11 +902,13 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0416-partition-equal-subset-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1049-last-stone-weight-ii) |
 ## Meet in the Middle
 |  |
 | ------- |
