@@ -31,7 +31,7 @@ public:
        int i=n-1,j=m-1;
        while(i>=0 && j>=0){
         
-                if( (arr1[i].first==arr2[j].first) &&(arr1[i].second==arr2[j].second) ){
+                if( arr1[i]==arr2[j] ){
                    ans=arr1[i].second;
                 }
             
