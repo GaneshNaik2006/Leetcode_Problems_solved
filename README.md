@@ -129,6 +129,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0486-predict-the-winner](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -741,6 +742,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0234-palindrome-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -829,6 +831,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0503-next-greater-element-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Combinatorics
