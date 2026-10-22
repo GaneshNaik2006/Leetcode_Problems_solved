@@ -648,6 +648,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0141-linked-list-cycle](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0455-assign-cookies) |
@@ -668,6 +669,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0141-linked-list-cycle](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Breadth-First Search
@@ -736,6 +738,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0145-binary-tree-postorder-traversal](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0173-binary-search-tree-iterator) |
+| [0234-palindrome-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0678-valid-parenthesis-string) |
@@ -854,6 +857,7 @@ A repository of my LeetCode solutions, documenting my DSA journey
 | [0021-merge-two-sorted-lists](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/GaneshNaik2006/Leetcode_Problems_solved/tree/master/3483-unique-3-digit-even-numbers) |
 ## Game Theory
