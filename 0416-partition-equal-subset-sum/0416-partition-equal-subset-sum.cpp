@@ -1,27 +1,26 @@
 class Solution {
 public:
-    bool f(vector<int>& nums,int i,int n,int sum,int total,vector<vector<int>>& dp){
-        if(total-sum==0) return true;
-        if(i>=n || sum<0 || total<0 || total-sum <0) return false;
+    bool f(vector<int>& nums,int i,int sum,int ts,vector<vector<int>>& dp){
+        if(ts==sum) return true;
+        if(ts-sum <0 || i<0) return false;
+        if(dp[i][ts-sum]!=-1) return dp[i][ts-sum];
+        bool take=false;
+       if(ts>=nums[i]) take=f(nums,i-1,sum+nums[i],ts-nums[i],dp);
+       bool nottake=f(nums,i-1,sum,ts,dp);
 
-        if(dp[i][total-sum]!=-1) return dp[i][total-sum];
-
-        if(f(nums,i+1,n,sum+nums[i],total-nums[i],dp)) return dp[i][total-sum]=true;
-        if(f(nums,i+1,n,sum,total,dp)) return dp[i][total-sum]=true;
-
-        return dp[i][total-sum]=false;
+       return dp[i][ts-sum]=(take||nottake);  
     }
     bool canPartition(vector<int>& nums) {
         int n=nums.size();
 
-        int sum=0;
-        
-        int total=0;
+        int ts=0;
 
-        for(int i=0;i<n;i++){
-            total+=nums[i];
+        for(int i=0;i<n;i++) {
+            ts+=nums[i];
         }
-        vector<vector<int>> dp(n+1,vector<int> (total+1,-1));
-        return f(nums,0,n,sum,total,dp);
+
+        vector<vector<int>> dp(n,vector<int>(ts+1,-1));
+
+        return f(nums,n-1,0,ts,dp);
     }
 };
